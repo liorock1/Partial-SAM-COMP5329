@@ -3,7 +3,7 @@
 > **COMP5329 / COMP4329 Deep Learning — Assignment 2**
 > University of Sydney · DLCC 2026
 
-A systematic empirical investigation into reducing the computational cost of Sharpness-Aware Minimization (SAM) without sacrificing generalization. We explore two orthogonal axes of reduction — **temporal scheduling** and **structural sparsity** — and combine them in a **joint ablation** that achieves ~50% FLOPs savings with minimal accuracy loss on CIFAR-100.
+A systematic empirical investigation into reducing the computational cost of Sharpness-Aware Minimization (SAM) without sacrificing generalization. We explore two orthogonal axes of reduction **temporal scheduling** and **structural sparsity** and combine them in a **joint ablation** that achieves ~50% FLOPs savings with minimal accuracy loss on CIFAR-100.
 
 ---
 
